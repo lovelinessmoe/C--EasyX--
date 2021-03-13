@@ -1,0 +1,23 @@
+﻿  Main.cpp
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(46): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\easyx.h(266): note: 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(46): note: 尝试匹配参数列表“(IMAGE *, const char [12])”时
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(47): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\easyx.h(266): note: 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(47): note: 尝试匹配参数列表“(IMAGE *, const char [13])”时
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(48): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\easyx.h(266): note: 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(48): note: 尝试匹配参数列表“(IMAGE *, const char [13])”时
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(49): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\easyx.h(266): note: 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(49): note: 尝试匹配参数列表“(IMAGE *, const char [15])”时
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(51): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [30]”转换为“LPCWSTR”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(51): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(52): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [20]”转换为“LPCWSTR”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(52): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(226): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [12]”转换为“LPCWSTR”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(226): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(227): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [31]”转换为“LPCWSTR”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(227): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(228): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [11]”转换为“LPCWSTR”
+  c:\users\loveliness\documents\visual studio 2015\projects\棋盘进阶\棋盘进阶\main.cpp(228): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换

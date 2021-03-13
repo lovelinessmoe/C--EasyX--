@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(83): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(99): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(121): warning C4101: “s”: 未引用的局部变量
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(421): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+c:\users\loveliness\desktop\新建文件夹\vs用户点这里\棋盘进阶\棋盘进阶\main.cpp(424): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  棋盘进阶.vcxproj -> C:\Users\loveliness\Desktop\新建文件夹\VS用户点这里\棋盘进阶\Debug\棋盘进阶.exe
+  棋盘进阶.vcxproj -> C:\Users\loveliness\Desktop\新建文件夹\VS用户点这里\棋盘进阶\Debug\棋盘进阶.pdb (Full PDB)
